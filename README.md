@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlekseyRozin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react.js, python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me --> nen.tim23@gmail.com
 <!---
 AlekseyRozin/AlekseyRozin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
