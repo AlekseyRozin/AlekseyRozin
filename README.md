@@ -1,1 +1,1 @@
-God knows I tried
+"For every complex problem there is an answer that is clear, simple, and wrong."
